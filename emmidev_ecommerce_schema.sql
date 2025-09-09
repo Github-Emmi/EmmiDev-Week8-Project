@@ -4,10 +4,10 @@
 -- Usage: Run in MySQL / MySQL Workbench. Adjust charset/collation as needed.
 
 -- 1) Create database and use it
-CREATE DATABASE IF NOT EXISTS emidev_ecommerce
+CREATE DATABASE IF NOT EXISTS emmidev_ecommerce
   DEFAULT CHARACTER SET = utf8mb4
   DEFAULT COLLATE = utf8mb4_unicode_ci;
-USE emidev_ecommerce;
+USE emmidev_ecommerce;
 
 -- 2) Users table (for admin/customers authentication)
 CREATE TABLE users (
