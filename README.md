@@ -88,7 +88,7 @@ Problem Solving & Collaboration
 
 This project reflects both my commitment to the programme and my career vision in fintech & software engineering.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Name: Aghason Emmanuel Ibeabuchi (EmmiDev)
 Scholarship Programme: Power Learn Project (PLP)
