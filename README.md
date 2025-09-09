@@ -4,9 +4,9 @@
 ---
 
 ## 🌍 About This Project  
-This repository contains my final submission for **Week 8 of the Power Learn Project (PLP) Software Development Scholarship Programme**.  
+This repository contains my final submission for **Week 8 of database department Power Learn Project (PLP) Software Development Scholarship Programme**.  
 
-As part of the assignment, I was required to **design and implement a complete relational database management system** (DBMS) using **MySQL**, showcasing real-world use cases, normalization, constraints, and relationships between tables.  
+As part of the assignment, I was required to **design and implement a complete relational database management system** (DBMS) using **MySQL**, showcasing real-world use cases, normalization, constraints, and relationships between tables.   
 
 I chose the **E-commerce Store** use case because it reflects a practical and highly relevant domain in today’s digital economy, aligning with my fintech and software engineering career goals.  
 
