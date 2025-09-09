@@ -50,7 +50,7 @@ The schema supports a modern **E-commerce Store** and includes:
    ```bash
    git clone https://github.com/Github-Emmi/EmmiDev-Week8-Project.git
    cd EmiDev-Week8-Project
-   Verify tables:
+   -- Verify tables:
    SHOW TABLES;
 
 ## 📚 Example Tables Created
