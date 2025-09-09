@@ -48,7 +48,7 @@ The schema supports a modern **E-commerce Store** and includes:
 ## ⚙️ How to Run the Schema  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/EmmiDev-Week8-Project.git
+   git clone https://github.com/Github-Emmi/EmmiDev-Week8-Project.git
    cd EmiDev-Week8-Project
    Verify tables:
    SHOW TABLES;
